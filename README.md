@@ -4,5 +4,7 @@ Using data extracted from Twitter, another student and I completed a sentiment a
 
 
 Apple vs Samsung Data.csv: cleaned and processed dataset 
+
 Apple vs Samsung.ipynb: Python code     
+
 Econ_385_Sentiment-Analysis-of-Twitter-Data: PDF of the written report  
